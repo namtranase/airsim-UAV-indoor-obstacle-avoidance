@@ -4,7 +4,7 @@ Paper : An approach for UAV indoor obstacle avoidance based on AI technique with
 This repo is source of paper with title above, you can find it in the link below:
 Link paper: (https://ieeexplore.ieee.org/document/9023811)
 
-[Cite]: Duc Nam-Tran, et al. "An approach for UAV indoor obstacle avoidance based on AI technique with ensemble of ResNet8 and Res-DQN." 2019 6th NAFOSTED Conference on Information and Computer Science (NICS). IEEE, 2019.
+[cite]: Duc Nam-Tran, et al. "An approach for UAV indoor obstacle avoidance based on AI technique with ensemble of ResNet8 and Res-DQN." 2019 6th NAFOSTED Conference on Information and Computer Science (NICS). IEEE, 2019.
 
 ## Project structure
 
