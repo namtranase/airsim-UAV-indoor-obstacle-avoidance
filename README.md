@@ -6,7 +6,7 @@ Link paper: (https://ieeexplore.ieee.org/document/9023811)
 
 [cite]: Duc Nam-Tran, et al. "An approach for UAV indoor obstacle avoidance based on AI technique with ensemble of ResNet8 and Res-DQN." 2019 6th NAFOSTED Conference on Information and Computer Science (NICS). IEEE, 2019.
 
-## Project structure
+## Project structure 🔥
 
 ```bash
 ├── controller
@@ -16,9 +16,9 @@ Link paper: (https://ieeexplore.ieee.org/document/9023811)
 ├── README.md
 ```
 
-## Requirements and Simulator for repo
+## Requirements and Simulator 🔥
 
-Require: Python3, Tensorflow 1.5
+Require: Python3, Tensorflow 1.15
 Simulator: AirSim
 
 Clone source code from github:
@@ -33,3 +33,4 @@ cd airsim_UAV_indoor_obstacle_avoidance
 ```bash
 python3 main.py
 ```
+If you have any question, just contact me directly!
