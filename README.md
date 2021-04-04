@@ -1,4 +1,4 @@
-# airsim_UAV_indoor_obstacle_avoidance
+# airsim-UAV-indoor-obstacle-avoidance
 Paper : An approach for UAV indoor obstacle avoidance based on AI technique with ensemble of `ResNet8` and `Res-DQN`. Public in 11/2019 - NICS Conference.
 
 This repo is source of paper with title above, you can find it in the link below:
